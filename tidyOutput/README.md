@@ -1,4 +1,4 @@
-# hex2rgb function
+# Tidy output
 This is a snippet to tidy the prepared html output.
 
 ## Dependencies
