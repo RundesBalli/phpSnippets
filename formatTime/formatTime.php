@@ -2,6 +2,12 @@
 /**
  * Function to format a given time in seconds to a readable time.
  * 
+ * @author    RundesBalli <github@rundesballi.com>
+ * @copyright 2024 RundesBalli
+ * @version   1.0
+ * @license   MIT-License
+ * @see       https://github.com/RundesBalli/phpSnippets
+ * 
  * @param int $seconds The seconds to format.
  * 
  * @return string The formatted time string.
